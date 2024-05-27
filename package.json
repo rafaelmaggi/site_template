@@ -1,0 +1,22 @@
+{
+  "name": "site-template",
+  "version": "1.0.0",
+  "description": "criação de um site usando gulp, github, mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelmaggi/my_project.git"
+  },
+  "author": "rafael maggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelmaggi/my_project/issues"
+  },
+  "homepage": "https://github.com/rafaelmaggi/my_project#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
